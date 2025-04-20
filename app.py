@@ -18,7 +18,7 @@ with open('kmeans_model.pkl','rb') as f:
 st.title("K-Means Clustering Visualizer by Nongnuch Ketui")
 
 #set the page config
-st.set_page_config(page_title = "K-Means Clustering", layout = "centered")
+st.set_page_config(page_title = "K-Means Clustering", layout="centered")
 
 
 #load dataset
